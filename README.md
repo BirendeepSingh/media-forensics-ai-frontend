@@ -4,7 +4,7 @@ This is the React-based frontend for **Media Forensics AI**, a fake news detecti
 It connects to a Flask backend to analyze the **authenticity, sentiment, and bias** of a news article or headline.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-screenshot.png" alt="UI Preview" width="600"/>
+  <img src="./ui-preview.png" width="600"/>
 </div>
 
 ---
